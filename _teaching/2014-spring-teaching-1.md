@@ -9,12 +9,3 @@ location: "Augsburg, Germany"
 ---
 
 I was the tutor for the masters course on nonequikibrium statistical physics. Topics included - classical field theories, kinetic theory, linear irreversible thermodynamics, stochastic thermodynamics, and coarsening kinetics.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

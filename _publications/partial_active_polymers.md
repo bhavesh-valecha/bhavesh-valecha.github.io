@@ -3,7 +3,7 @@ title: "Transport of partially active polymers in chemical gradients"
 collection: publications
 category: manuscripts
 permalink: /research/partially_active_polymers
-date: 2026-02-20
+date: 2025-02-20
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2025/sm/d4sm01357c'
 citation: 'S. Ravichandir, B. Valecha, P. L. Muzzeddu, J.-U. Sommer and A. Sharma, (Communication) _**Soft Matter**_, 2025, **21**, 1835-1840'
 ---

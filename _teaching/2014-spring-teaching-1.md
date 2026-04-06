@@ -4,7 +4,7 @@ collection: teaching
 type: "Advanced Undergraduate Course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "University of Augsburg"
-date: Summer Semester 2024 and 2025
+date: 2024-04-01 - 2024-09-30
 location: "Augsburg, Germany"
 ---
 

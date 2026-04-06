@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Bhavesh Valecha"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Welcome to Bhavesh's page"
 title_separator          : "-"
 name                     : &name "Bhavesh Valecha"
 description              : &description "PhD Candidate at University of Augsburg"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Bhavesh Valecha"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at the University of Augsburg. Interested in all things related to Nonequilibrium Statistical Physics."
+  bio              : "Interested in all things related to Nonequilibrium Physics."
   location         : "Augsburg, Germany"
   employer         : 
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=grbB-z4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0000-3219-1786"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 

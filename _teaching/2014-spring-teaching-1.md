@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Nonequilibrium Statistical Physics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Advanced Undergraduate Course"
+permalink: /teaching/2024-spring-teaching-1
+venue: "University of Augsburg"
+date: Summer Semester 2024 and 2025
+location: "Augsburg, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was the tutor for the masters course on nonequikibrium statistical physics. Topics included - classical field theories, kinetic theory, linear irreversible thermodynamics, stochastic thermodynamics, and coarsening kinetics.
 
 Heading 1
 ======

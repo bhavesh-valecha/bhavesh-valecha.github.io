@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at the University of Augsburg. Interested in all things related to Nonequilibrium Statistical Physics."
   location         : "Augsburg, Germany"
-  employer         : "Univeristy of Augsburg"
+  employer         : 
   uri              : # URL
-  email            : "bhavesh.valecha[at]uni-a[dot]de" 
+  email            : "bhavesh.valecha@uni-a.de" 
 
   # Academic websites
   academia         : # URL

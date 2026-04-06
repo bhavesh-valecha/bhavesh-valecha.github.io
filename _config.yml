@@ -23,7 +23,7 @@ repository               : "bhavesh-valecha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Bhavesh Valecha"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at the University of Augsburg. Interested in all things related to Nonequilibrium Statistical Physics."
@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  letterboxd       : "mardy_bhavesh"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

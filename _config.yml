@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome to Bhavesh's page"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Bhavesh Valecha"
 title_separator          : "-"
 name                     : &name "Bhavesh Valecha"
 description              : &description "PhD Candidate at University of Augsburg"   # Update this with a general description of your site, this is the default if not overridden by a page

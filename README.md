@@ -1,1 +1,1 @@
-This is the personal academic webiste of Bhavesh Valecha, PhD Candidate at Universität Augsburg. This was made using Github Pages using the [Academic pages template](https://github.com/academicpages/academicpages.github.io).
+This is the personal academic webiste of Bhavesh Valecha, PhD Candidate at Universität Augsburg. This was made using Github Pages using the [Academic pages template](https://github.com/academicpages/academicpages.github.io). The webpage can be found at [bhavesh-valecha.github.io](https://bhavesh-valecha.github.io).

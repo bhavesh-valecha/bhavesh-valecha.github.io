@@ -23,7 +23,7 @@ repository               : "bhavesh-valecha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Bhavesh Valecha"
   pronouns         : # example: "she/her"  
   bio              : "Interested in all things about Nonequilibrium Statistical Physics."
